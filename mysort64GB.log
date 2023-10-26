@@ -1,0 +1,6 @@
+(external sort used) file size is: 64000000000, the number of reading per each thread: 50000000 
+destory pools finish
+input file given is: inputfile_64GB
+File generated as output: mysorted64GBdata.txt
+number of threads utilized: 8
+time taken for execution: 1924.548632

@@ -1,0 +1,6 @@
+(internal sort used) file size is: 4000000000, the number of reading per each thread: 5000000 
+destory pools finish
+input file given is: inputfile_4GB
+File generated as output: mysorted4GBdata.txt
+number of threads utilized: 8
+time taken for execution: 86.345321
